@@ -1,4 +1,1 @@
-第一次提交
-
-远程更新而本地未更新
-先进行git fetch再git merge合并分支 (master分支)
+用户2 修改了文件并push
